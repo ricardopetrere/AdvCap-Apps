@@ -1,0 +1,131 @@
+{"earth": {
+  "levels": {
+    "Lemon": 1550,
+    "Newspaper": 850,
+    "Carwash": 800,
+    "Pizza": 900,
+    "Donut": 900,
+    "Shrimp": 800,
+    "Hockey": 900,
+    "Movies": 1000,
+    "Bank": 1100,
+    "Oil": 1200
+  },
+  "numAngels": 707868000000000000,
+  "upgradeIndexUpTo": 70,
+  "upgradeIndexBonus": [
+  ],
+  "angelUpgradeIndexUpTo": 22,
+  "angelUpgradeIndexBonus": [
+  ],
+  "managersBought": [
+    2,
+    4,
+    6,
+    8,
+    10,
+    12,
+    14,
+    16,
+    18
+  ], 
+  "noSingles": true,
+  "noTens": false,
+  "triples": 0,
+  "flux": 0,
+  "bonusAngelEffectiveness": 2,
+  "bonusMultiplier": 0,
+  "megaTicket": [
+  ]
+},
+"moon": {
+  "levels": {
+    "Moon Shoe": 3860,
+    "Gravity Booth": 1020,
+    "Payday Clone": 2680,
+    "Moon Express": 1010,
+    "Oxygen Bar": 2080,
+    "Helium-3 Farm": 1210,
+    "Cheese Mine": 1320,
+    "Amusement Park": 1100,
+    "Werewolf Colony": 1600,
+    "Giant Laser": 445
+  },
+  "numAngels": 1.8043e+37,
+  "upgradeIndexUpTo": 107,
+  "upgradeIndexBonus": [
+  ],
+  "angelUpgradeIndexUpTo": 49,
+  "angelUpgradeIndexBonus": [
+  ],
+  "managersBought": [
+  ], 
+  "noSingles": false,
+  "noTens": false,
+  "triples": 0,
+  "flux": 0,
+  "bonusAngelEffectiveness": 2,
+  "bonusMultiplier": 0,
+  "megaTicket": [
+  ]
+},
+"mars": {
+  "levels": {
+    "Red Dirt": 56004,
+    "Marsies": 17545,
+    "Men": 12006,
+    "Buggles": 8905,
+    "Heck Portal": 5002,
+    "Ambassadors": 14005,
+    "Brain-cation": 7607,
+    "LIFE Pod": 6000,
+    "Terrorformer": 2503
+  },
+  "numAngels": 6.4712200000000016e+125,
+  "upgradeIndexUpTo": 123,
+  "upgradeIndexBonus": [
+  ],
+  "angelUpgradeIndexUpTo": 77,
+  "angelUpgradeIndexBonus": [
+  ],
+  "managersBought": [
+  ], 
+  "noSingles": false,
+  "noTens": false,
+  "triples": 0,
+  "flux": 0,
+  "bonusAngelEffectiveness": 2,
+  "bonusMultiplier": 0,
+  "megaTicket": [
+  ]
+},
+"love": {
+  "levels": {
+    "Choc Boxes": 1,
+    "Valentines": 0,
+    "The Notebooks": 0,
+    "Pricy Spicy Sauce": 0,
+    "Any Other Names": 0,
+    "Bling": 0,
+    "Feel Meals": 0,
+    "Bitter Sweets": 0,
+    "Unicoach Rides": 0
+  },
+  "numAngels": 0,
+  "upgradeIndexUpTo": 0,
+  "upgradeIndexBonus": [
+  ],
+  "angelUpgradeIndexUpTo": 0,
+  "angelUpgradeIndexBonus": [
+  ],
+  "managersBought": [
+  ], 
+  "noSingles": false,
+  "noTens": false,
+  "triples": 0,
+  "flux": 0,
+  "bonusAngelEffectiveness": 0,
+  "bonusMultiplier": 0,
+  "megaTicket": [
+  ]
+}}
